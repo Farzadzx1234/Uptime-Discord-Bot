@@ -4,5 +4,5 @@ Do You Use Replit For Your Discord Bot? Do You Use Features Like Uptime Robot Fo
 This Is How It Is Supposed To Look..
 You might need to add this webserver output from replit to features like uptime robot. due to high work it is pretty sure that repl never sleeps...
 the big ones might have lags, then why not make one yourself?
-### Protip: If You Use Replit Then Also Ping The Webserver You Currenly Use To Avoid Sleep
+### Protip: If You Use Replit Then Also Ping The Webserver You Currently Use To Avoid Sleep
 ![image](https://user-images.githubusercontent.com/80934417/120067778-1b92c700-c09b-11eb-8172-62148c689e5d.png)
