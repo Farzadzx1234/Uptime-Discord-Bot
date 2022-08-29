@@ -25,4 +25,4 @@ client.on('message', message => {
 });
 
 require('./server')();
-client.login("Your Discord Bot Token")
+client.login(process.env.token);
